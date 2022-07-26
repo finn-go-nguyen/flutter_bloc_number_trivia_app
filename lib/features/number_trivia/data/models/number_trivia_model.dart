@@ -1,4 +1,4 @@
-import 'package:flutter_bloc_number_trivia_app/features/number_trivia/domain/entities/number_trivia.dart';
+import '../../domain/entities/number_trivia.dart';
 
 class NumberTriviaModel extends NumberTrivia {
   const NumberTriviaModel({
