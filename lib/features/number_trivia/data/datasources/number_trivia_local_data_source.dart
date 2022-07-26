@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import '../../../../core/error/exception.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
+import '../../../../core/error/exception.dart';
 import '../models/number_trivia_model.dart';
 
 const cachedNumberTrivia = 'CACHED_NUMBER_TRIVIA';
